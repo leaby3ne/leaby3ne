@@ -51,7 +51,7 @@
 ###
 
 <!-- Snake animation -->
-![Snake animation](https://github.com/tuUsuario/tuUsuario/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Leaby3ne/Leaby3ne/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
