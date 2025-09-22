@@ -6,11 +6,11 @@
 
 <br clear="both">
 
-<p align="left"> 💻 Actualmente me estoy capacitando como desarrollador Full Stack, con un enfoque sólido en el desarrollo backend. Mi objetivo es construir aplicaciones eficientes y seguras, entendiendo  la lógica del servidor y con servicios externos.<br><br>⚙️ Tengo un interés especial en la programación orientada a objetos, y al desarrollo de videojuegos,la aplicación de patrones de diseño junto con principios de ingeniería de software <br><br>🧠 Soy una persona apasionada por el aprendizaje constante. Cada día me esfuerzo por adquirir nuevas habilidades, mejorar mis capacidades y mantenerme actualizado con las tecnologías que están marcando la industria. Además, disfruto compartir mis conocimientos con otros developers.</p>
+<p align="left">Atualmente me estoy formando como desarrollador Full Stack, con un enfoque sólido en el desarrollo backend. Mi objetivo es construir aplicaciones eficientes, escalables y seguras, entendiendo tanto la lógica del servidor como la interacción con las bases de datos y la integración con servicios externos.<br><br>⚙️ Tengo un interés especial en la programación orientada a objetos,y al desarrollo de videojuegos,  la aplicación de buenas prácticas de código, ya que considero que son pilares fundamentales para crear proyectos sostenibles y de calidad. Busco siempre escribir código limpio, modular y fácil de mantener.<br><br>🧠 Soy una persona apasionada por el aprendizaje constante. Cada día me esfuerzo por adquirir nuevas habilidades, mejorar mis capacidades y mantenerme actualizado con las tecnologías que están marcando la industria. Además, disfruto compartir mis conocimientos con otros developers, porque creo que el crecimiento en comunidad hace que todos avancemos más rápido.</p>
 
 ###
 
-<p align="left">Programming languages and databases</p>
+<p align="left">programming languages and databases</p>
 
 ###
 
@@ -46,17 +46,20 @@
 
 ###
 
-<div align="right">
-  <img height="150" src="https://camo.githubusercontent.com/e342071d5fa758adef650b1b6aaa001b72f44fc3e247022be0a2d185a87d09ba/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e32786c636e4d35655730776454637a4d3255335a6e6f7a636e706f6447396c64476c314e54466a4e7a5134614845784d3274745a535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7058466b5556394269446b5149664b626f6a2f67697068792e676966" />
-  <img src="https://github.com/leaby3ne/leaby3ne/blob/output/snake.svg" height="150" alt="Snake animation" />
-</div>
+<img align="right" height="150" src="https://camo.githubusercontent.com/e342071d5fa758adef650b1b6aaa001b72f44fc3e247022be0a2d185a87d09ba/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e32786c636e4d35655730776454637a4d3255335a6e6f7a636e706f6447396c64476c314e54466a4e7a5134614845784d3274745a535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7058466b5556394269446b5149664b626f6a2f67697068792e676966"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/leaby3ne/leaby3ne/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <br clear="both">
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo"  />
+<div align="left">
+  <a href="https://www.instagram.com/n3kkro.l41__/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo"  />
+  </a>
   <a href="458703015491403777" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="35" alt="discord logo"  />
   </a>
