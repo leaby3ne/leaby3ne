@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">Actualmente me estoy capacitando como desarrollador Full Stack, con un enfoque sólido en el desarrollo backend. Mi objetivo es construir aplicaciones eficientes y seguras, entendiendo  la lógica del servidor y con servicios externos.<br><br>⚙️ Tengo un interés especial en la programación orientada a objetos, y al desarrollo de videojuegos,la aplicación de patrones de diseño junto con principios de ingeniería de software <br><br>🧠 Soy una persona apasionada por el aprendizaje constante. Cada día me esfuerzo por adquirir nuevas habilidades, mejorar mis capacidades y mantenerme actualizado con las tecnologías que están marcando la industria. Además, disfruto compartir mis conocimientos con otros developers.</p>
+<p align="left"> 💻 Actualmente me estoy capacitando como desarrollador Full Stack, con un enfoque sólido en el desarrollo backend. Mi objetivo es construir aplicaciones eficientes y seguras, entendiendo  la lógica del servidor y con servicios externos.<br><br>⚙️ Tengo un interés especial en la programación orientada a objetos, y al desarrollo de videojuegos,la aplicación de patrones de diseño junto con principios de ingeniería de software <br><br>🧠 Soy una persona apasionada por el aprendizaje constante. Cada día me esfuerzo por adquirir nuevas habilidades, mejorar mis capacidades y mantenerme actualizado con las tecnologías que están marcando la industria. Además, disfruto compartir mis conocimientos con otros developers.</p>
 
 ###
 
