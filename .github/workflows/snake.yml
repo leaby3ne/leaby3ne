@@ -1,28 +1,27 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *"  # Corre todos los días a medianoche (UTC)
-  workflow_dispatch:      # Permite correrlo manualmente
-  push:
-    branches:
-      - main
+  schedule: # se ejecuta cada 24h
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write   # 👈 darle permiso al bot
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Clonar repo
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generar snake
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: leaby3ne
-          outputs: dist/snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Subir snake al branch output
+      - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
