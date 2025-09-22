@@ -6,11 +6,20 @@
 
 <br clear="both">
 
-<p align="left">💻 Actualmente me estoy capacitando como Desarrollador Full Stack, con un énfasis particular en el backend. Mi objetivo es desarrollar sistemas eficientes,  y seguros,comprendiendo tanto la arquitectura del servidor, el manejo de bases de datos relacionales y no relacionales, como la integración de APIs y servicios externos.<br><br>⚙️ Tengo un interés especial en la programación orientada a objetos,y al desarrollo de videojuegos,y la implementación de patrones de diseño y buenas prácticas de ingeniería de software. Me interesa aplicar principios como SOLID, Clean Code y modularidad, asegurando que el software sea mantenible y extensible a largo del tiempo.  <br><br>🧠 Soy un entusiasta del aprendizaje continuo: busco estar al día con las tendencias tecnológicas, experimentar con nuevas herramientas y frameworks, y profundizar en áreas como DevOps, despliegue en entornos Linux y control de versiones con Git. Además, me motiva compartir conocimientos y colaborar en proyectos open source, convencido de que la comunidad developer es clave para la innovación.</p>
+<p align="left">
+💻 Actualmente me estoy capacitando como <b>Desarrollador Full Stack</b>, con un énfasis particular en el <b>backend</b>.  
+Mi objetivo es desarrollar sistemas <b>eficientes</b> y <b>seguros</b>, comprendiendo tanto la <b>arquitectura del servidor</b>, el manejo de <b>bases de datos relacionales</b> y <b>no relacionales</b>, como la <b>integración de APIs</b> y servicios externos.  
+<br><br>
+⚙️ Tengo un interés especial en la <b>programación orientada a objetos</b>, el <b>desarrollo de videojuegos</b>, y la <b>implementación de patrones de diseño</b> junto con <b>buenas prácticas de ingeniería de software</b>.  
+Me interesa aplicar principios como <b>SOLID</b>, <b>Clean Code</b> y <b>modularidad</b>, asegurando que el software sea <b>mantenible</b> y <b>extensible</b> a largo plazo.  
+<br><br>
+🧠 Soy un <b>entusiasta del aprendizaje continuo</b>: busco estar al día con las <b>tendencias tecnológicas</b>, experimentar con nuevas <b>herramientas</b> y <b>frameworks</b>, y profundizar en áreas como <b>DevOps</b>, <b>despliegue en entornos Linux</b> y <b>control de versiones con Git</b>.  
+Además, me motiva <b>compartir conocimientos</b> y <b>colaborar en proyectos open source</b>, convencido de que la <b>comunidad developer</b> es clave para la <b>innovación</b>.
+</p>
 
 ###
 
-<p align="left">programming languages and databases</p>
+<p align="left"><b>Programming Languages and Databases</b></p>
 
 ###
 
@@ -32,7 +41,7 @@
 
 ###
 
-<p align="left">System & Deployment</p>
+<p align="left"><b>System & Deployment</b></p>
 
 ###
 
@@ -70,5 +79,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
