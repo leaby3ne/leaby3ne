@@ -50,8 +50,7 @@
 
 ###
 
-<!-- Snake animation -->
-![Snake animation](https://github.com/Leaby3ne/Leaby3ne/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/leaby3ne/leaby3ne/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
