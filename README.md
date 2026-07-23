@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hola, soy Takongo 👋!</h2>
+<h2 align="center">Hola, soy Nekkro 👋!</h2>
 
 ###
 
