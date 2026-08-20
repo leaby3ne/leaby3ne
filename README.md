@@ -51,6 +51,7 @@ Además, me motiva <b>compartir conocimientos</b> y <b>colaborar en proyectos op
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/redhat/EE0000" height="40" alt="redhat logo"  />
+  <h1>Soy gay y me gustan mucho los hombres. Chupo pene dedicadamente y me follan el anito.</h1>
 </div>
 
 ###
